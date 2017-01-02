@@ -1,0 +1,14 @@
+{
+  "name": "core-js-amd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "r.js -convert origin dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "requirejs": "^2.3.2"
+  }
+}
