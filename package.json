@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "r.js -convert origin dist"
+    "build": "node tool/build.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "requirejs": "^2.3.2"
+    "requirejs": "^2.3.2",
+    "underscore": "^1.8.3"
   }
 }
